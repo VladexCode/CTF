@@ -4,7 +4,7 @@ Toda la WWW (World Wide Web) utiliza este protocolo, todo lo que aparece en un n
 
 ---------------------------------
 
-# Composición de un http request
+# Composición de un http request: Solicitud del Cliente
 
 Contiene la siguiente infomración
   * (método HTTP, URL y versión)
@@ -29,7 +29,7 @@ X-Forwarded-For: IP
 ```
 ----------------------------------------------
 
-# composición de http response: respuesta del servidor
+# Composición de http response: respuesta del servidor
 
 Contiene la siguiente informacion
 
